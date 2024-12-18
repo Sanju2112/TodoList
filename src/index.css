@@ -75,9 +75,11 @@ li{
 @media(min-width:375px) and (max-width:425px)
 {
   .container{
-    width: 100%;
+    width: 98%;
+    
   }
   li{
     font-size: 1.2rem;
+    
   }
 }
